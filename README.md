@@ -7,11 +7,12 @@
 
 - 👯 I’m looking to collaborate on **any fun project**
 
-- 🤝 I’m looking to help others with **serverless framework** and **AWS SAM**
+- 🤝 I’m looking to help others with backend application, **serverless framework** and **AWS SAM** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/chapimenge3](https://github.com/chapimenge3)
 
-- 📫 How to reach me **chapimenge3@gmail.com**
+- 📫 How to reach me **chapimenge3@gmail.com** or **mail@chapimenge.com**
+- Click here to [Send email](mailto:mail@chapimenge.com?subject=[GitHub]%20Contacting%20from%20github)
 
 - 🔗 Here is my website [https://chapimenge.com](https://chapimenge.com)
 
